@@ -69,6 +69,11 @@ body {
   background-color: #fff;
 }
 
+body {
+  background-image: url("../assets/img/Background8.png");
+  background-size: cover;
+}
+
 [tabindex="-1"]:focus:not(:focus-visible) {
   outline: 0 !important;
 }
