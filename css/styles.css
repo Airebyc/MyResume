@@ -70,8 +70,7 @@ body {
 }
 
 body {
-  background-image: url("../assets/img/Background8.png");
-  background-size: cover;
+  background-color: white;
 }
 
 [tabindex="-1"]:focus:not(:focus-visible) {
